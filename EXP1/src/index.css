@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevents horizontal scrolling */
+  width: 100%; /* Ensures full-width layout */
+}
+
+body {
+  box-sizing: border-box; /* Prevents overflow issues */
+  font-family: Arial, sans-serif;
+}
