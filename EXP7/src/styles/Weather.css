@@ -1,0 +1,27 @@
+
+.weather {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  min-width: 300px;
+}
+
+.weather h2 {
+  color: #333;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.weather h3 {
+  color: #1e3c72;
+  font-size: 3rem;
+  margin: 1rem 0;
+}
+
+.weather p {
+  color: #666;
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
